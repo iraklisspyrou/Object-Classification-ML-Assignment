@@ -48,8 +48,8 @@ The **KITTI dataset** was used, which contains:
 │
 ├── README.md  # Project Documentation
 ├── requirements.txt  # Dependencies
-├── ML_report.pdf  # Detailed report with results and analysis
-├── ML_presentation #Presentation of all the workflow and results
+├── Object_Classification_report.pdf  # Detailed report with results and analysis
+├── Object_Classification_report_presentation #Presentation of all the workflow and results
 ```
 
 
